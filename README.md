@@ -33,7 +33,7 @@ Naive Bayes
 **Result Images**
 
  1.Accuracy by Logistic Regression
- ![Read Image](/Images/Logistic Regression.png)
+ ![Read Image](/Images/Logistic_Regression.png)
  
  2.Accuracy by KNN
  ![Read Image](/Images/KNN.png)
@@ -42,14 +42,14 @@ Naive Bayes
  ![Read Image](/Images/SVM.png)
  
  4.Accuracy by Naive Bayes
- ![Read Image](/Images/Naive Bayes.png)
+ ![Read Image](/Images/Naive_Bayes.png)
  
  5.Accuracy by CNN model
  ![Read Image](/Images/CNN.png)
  
  6.Confusion Matrix
- ![Read Image](/Images/Confusion Matrix.png)
+ ![Read Image](/Images/Confusion_Matrix.png)
  
  7.Overall Accuracy of All models we get that KNN has highest whereas Logistic Regression has Lowest
-![Read Image](/Images/overall 1.png)
-![Read Image](/Images/overall 2.png)
+![Read Image](/Images/overall_1.png)
+![Read Image](/Images/overall_2.png)
