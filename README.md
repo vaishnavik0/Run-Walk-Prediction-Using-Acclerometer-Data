@@ -8,7 +8,7 @@
 
 Human activity recognition (HAR) aims to classify a person's actions from a series of measurements captured by sensors.
 Nowadays, collecting this type of data is not an arduous task. With the growth of the Internet of Things, almost everyone has some gadget that monitors their movements. It can be a smartwatch, a pulsometer, or even a smartphone.
-Usually, this is performed by following a fixed-length sliding window approach for the features extraction. Here two parameters need to be fixed: the size of the window and the shift.
+Usually, this is performed by following a fixed-length sliding window approach for the features extraction. Here two parameters need to be fixed: the size of the window and the shift. </p>
  <br> 
 These are some of the data you could use: <br>
       ●	Body acceleration.  <br>
