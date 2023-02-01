@@ -33,7 +33,7 @@ Naive Bayes
 **Result Images**
 
  1.Accuracy by Logistic Regression
- ![Read Image](/Images/CNN.PNG)
+ ![Read Image](/Images/CNN.png)
  2.Accuracy by KNN
  3.Accuracy by SVM
  4.Accuracy by Naive Bayes
