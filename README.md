@@ -1,1 +1,30 @@
-# Run-Walk-Prediction-Using-Acclerometer-Data
+<h1 align="center">Run-Walk Prediction </h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p  align="justify">
+
+Human activity recognition (HAR) aims to classify a person's actions from a series of measurements captured by sensors.
+Nowadays, collecting this type of data is not an arduous task. With the growth of the Internet of Things, almost everyone has some gadget that monitors their movements. It can be a smartwatch, a pulsometer, or even a smartphone.
+Usually, this is performed by following a fixed-length sliding window approach for the features extraction. Here two parameters need to be fixed: the size of the window and the shift.
+These are some of the data you could use:
+      ●	Body acceleration.
+      ●	Gravity acceleration.
+      ●	Body angular speed.
+      ●	Body angular acceleration.
+      ●	Etc.
+
+
+The objective of this project is to analyze a dataset of human activities containing running and walking. Later imported some python libraries and implemented a few nonlinear ML models on a dataset. After acquiring the accuracies from respective models, the model with maximum accuracy was selected for this dataset.
+
+
+**Machine Learning Models Used**
+
+```
+KNN
+CNN
+SVM
+Naive Bayes
+```
